@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 #Thiraphat Sangchai
-<img src="screen.png" width="500" height="600">
+<img src="images/screen.png" width="500" height="600">
 
 This project is a starting point for a Flutter application.
 

@@ -1,11 +1,11 @@
 # stateful
 
 A new Flutter project.
+#Thiraphat Sangchai
 
 ## Getting Started
 
-#Thiraphat Sangchai
-<img src="images/screen.png" width="500" height="600">
+<img src="images/screen.png" width="300" height="400">
 
 This project is a starting point for a Flutter application.
 
